@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.FirebaseAuthApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>
